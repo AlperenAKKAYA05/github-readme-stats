@@ -207,19 +207,19 @@ Hey! Artık 6 pin ile kısıtlı kalmayacaksınız!
 
 Alttaki kodu kopyalayıp readme dosyanıza urlleri değiştirerek yapıştırın.
 
-Endpoint: `api/pin?username=mustafacagri&repo=github-readme-stats`
+Endpoint: `api/pin?username=AlperenAKKAYA05&repo=github-readme-stats`
 
 ```md
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=AlperenAKKAYA05&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Demo
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=AlperenAKKAYA05&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [show_owner](#özelleştirmeler) ile reponun sahibini gösterebilirsiniz.
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=AlperenAKKAYA05&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # En Çok Kullanılan Diller
 
@@ -231,10 +231,10 @@ _NOTE: En çok kullanılan dillerde yer alan bilgiler sizin yeteneğinizi ve ben
 
 Alttaki kodu kopyalayıp readme dosyanıza urlleri değiştirerek yapıştırın.
 
-Endpoint: `api/top-langs?username=mustafacagri`
+Endpoint: `api/top-langs?username=AlperenAKKAYA05`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenAKKAYA05)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Belirli Repoları Çıkartın
@@ -301,19 +301,19 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlperenAKKAYA05)
 
 - Belirli istatistikler gizli
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlperenAKKAYA05&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlperenAKKAYA05&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlperenAKKAYA05&include_all_commits=true)
 
 - Temalar
 
@@ -323,27 +323,27 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlperenAKKAYA05&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlperenAKKAYA05&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AlperenAKKAYA05&locale=es)
 
 - Repo kartı düzenleyin
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=AlperenAKKAYA05&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - En çok kullanılan diller
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenAKKAYA05)](https://github.com/AlperenAKKAYA05/github-readme-stats)
 
 - Wakatime kart
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlperenAKKAYA05)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -403,7 +403,7 @@ Ayrıca, bu projeyi kullanıyor ve memnunsanız veya sadece bir şeyler yaratmay
 
 - Readme'nizde github-readme-stats'ı kullanırken bu projeye uygun bir link verebilirsiniz.
 - Projeye yıldız verebilir ve paylaşabilirsiniz :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - PayPal ile tek seferlik bağış yapabilirsiniz. Muhtemelen bir ~~kahve~~ ya da çay :tea: alacağım. 
+- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/) - PayPal ile tek seferlik bağış yapabilirsiniz. Muhtemelen bir ~~kahve~~ ya da çay :tea: alacağım. 
 
 Teşekkürler! :heart:
 
